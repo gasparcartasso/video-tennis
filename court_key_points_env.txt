@@ -1,0 +1,10 @@
+ipykernel
+python = 3.13
+pandas
+numpy
+pillow
+matplotlib
+pytorch
+opencv
+torchvision
+pickle
